@@ -1,4 +1,4 @@
-### Welcome to my first website from nucap
+### Welcome to my first website from Nucamp
 
 to start please download the repo and then open your command prompt and run
 `npm i`
